@@ -1,0 +1,19 @@
+/* Descedent CS*/ 
+div p{
+    color: red;
+}
+
+/* child CS */
+div>p{
+    background-color: beige;
+}
+
+/*Adjscent Sibling CS*/
+div+p{
+    color: green;
+}
+
+/*General Shibling CS*/
+div~p{
+    background-color: brown;
+}

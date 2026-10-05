@@ -1,0 +1,24 @@
+/* id simple selector*/
+#p1{
+    color: orange;
+}
+
+/*class simple selector*/
+.cl{
+    color:red;
+}
+
+/*element simple selector*/
+span{
+    color: blue;
+}
+
+/*grouping simple selector*/
+#p1,.c1,span{
+    font-style: italic;
+}
+
+/*universal simple selector*/
+*{
+    background-color: bisque;
+}

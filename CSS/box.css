@@ -1,0 +1,14 @@
+/*Text Property*/
+p{
+    color: rgb(26, 234, 234);
+    text-indent: 400px;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+    text-transform: capitalize;
+}
+
+h2{
+    text-align: center;
+    text-shadow: 10px 10px 4px rgb(17, 17, 218);
+}
