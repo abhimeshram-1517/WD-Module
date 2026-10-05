@@ -1,0 +1,33 @@
+/*Important Types*/
+
+/* ::before */
+h1::before {
+    content: "👉 ";
+}
+
+/* ::first-letter */
+h2::first-letter{
+    color: green;
+}
+
+/* ::first-line */
+p::first-line {
+            color: red;
+            font-weight: bold;
+        }
+ 
+h3::first-line{
+    color: blue;
+}
+
+/* ::after */
+h4::after {
+    content: " ⭐";
+}
+
+/* ::selection */
+h5::selection {
+    background-color: rgb(243, 243, 14);
+    color: rgb(255, 0, 0);
+}
+

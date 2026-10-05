@@ -1,0 +1,21 @@
+/* Types */
+
+/**/
+button:hover {
+            background-color: blue;
+            color: white;
+        }
+/**/
+input:focus {
+            border: 3px solid blue;
+            background-color: lightyellow;
+        }   
+/**/
+input:checked {
+            accent-color: green;
+        }
+/**/
+  p:first-child {
+            color: blue;
+        }
+   
