@@ -1,0 +1,19 @@
+div{
+    height: 400px;
+    width: 400px;
+    border-style: dotted;
+    background-color: rgb(170, 170, 250);
+    margin-top: 50px;
+   /* margin-right: 100px; */
+   margin-left: 100px;
+   padding-left: 100px;
+   padding-top: 50px;
+   border-color: rgb(136, 16, 16);
+   /* border-radius: 30px; */
+   border-top-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+   color: red;
+   font-size: 50px;
+   float: right;
+
+}
