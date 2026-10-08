@@ -1,0 +1,25 @@
+.div1{
+    height: 250px;
+    width: 250px;
+    /* border-style:dotted; */
+    /*position:absolute*/
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
+
+.div2{
+    height: 250px;
+    width: 300px;
+    /* border-style:dotted; */
+    background-color: black;
+    opacity: 0.8;
+    position: absolute;
+    top: 8px;
+}
+
+.div1 .div2:hover{
+    opacity: 0.7;
+}

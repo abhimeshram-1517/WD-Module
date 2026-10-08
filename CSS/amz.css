@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    height: 70px;
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+
+    padding: 50px;
+    gap: 25px;
+
+    color: white;
+}
+
+/*Logo*/
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+    background-color: rgb(251, 251, 251);
+}
+
+/*Serach box*/
+.search{
+    display: flex ;
+    flex: 1;
+}
+
+.search input{
+    width: 100%;
+    padding: 4px;
+}
+
+.search button{
+    padding: 10px 10px;
+    background-color: #febd69;
+    cursor: pointer;
+}
+
+/*Login*/
+.login{
+    font-size: 12px;
+}
+
+/*orders*/
+.orders{
+    font-size: 12px;
+}
+
+/* Cart */
+
+.cart {
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+

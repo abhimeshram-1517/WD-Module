@@ -1,0 +1,25 @@
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+article{
+    width: 100%;
+    height: 50px;
+    /**/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*Flex property*/
+/*1.display
+2.flex-wrap
+3.justify-content
+4.align-items*/
