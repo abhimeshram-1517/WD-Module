@@ -10,10 +10,10 @@ div>p{
 
 /*Adjscent Sibling CS*/
 div+p{
-    color: green;
+    color: rgb(255, 226, 11);
 }
 
 /*General Shibling CS*/
 div~p{
-    background-color: brown;
+    background-color: rgb(119, 70, 255);
 }
